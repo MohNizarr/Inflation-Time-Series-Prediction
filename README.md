@@ -1,7 +1,3 @@
-Saya akan membuatkan file `README.md` lengkap dalam bahasa Inggris untuk proyek **"Inflation Rate Prediction Using Time Series Deep Learning"** yang bisa Anda *copy-paste* langsung ke GitHub Anda.
-
------
-
 # Inflation Rate Prediction Using Time Series Deep Learning
 
 This project aims to develop an interactive forecasting system for the **Inflation Rate** using a **Time Series Deep Learning** model. The user interface (GUI) is built using **Streamlit** to facilitate the visualization of historical data and perform predictions in real-time.
